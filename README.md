@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Vitalii Vovchok
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalii-vov&show_icons=true&theme=ambient_gradient)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalii-vov&show_icons=true&theme=transparent)
 
 
 ### Languages & Tools
