@@ -22,8 +22,7 @@
 <img align="left" alt="Android Studio" title="Android Studio" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Rider" title="Rider" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
 <img align="left" alt="XCode" title="XCode" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
-          
-<br/><br/><br/><br/>
+
 
 <!-- Use '##' or '###' or etc. or '---' to add additional line -->
 
